@@ -48,7 +48,7 @@ Maintenant que nous avons le nom, nous allons éditer le formulaire lui-même.
 2.  Dans la liste, recherchez le formulaire que vous avez identifié à l'étape précédente (ex: *Action spéciale 2*).
 3.  Cliquez sur le petit bouton flèche à côté de "Modifier" et sélectionnez **Paramètres** (ou *Settings*). Si vous êtes déjà en mode édition, cliquez sur l'onglet **Paramètres du formulaire** en haut.
 
-### Étape 4 : Ajout des classes de Tracking (CRUCIAL)
+### Étape 4 : Ajout des classes de Tracking (CRUCIAL) 🎯
 
 C'est ici que la magie opère. Il faut être très précis.
 
